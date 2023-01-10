@@ -2,6 +2,7 @@
  Author:            Thi Thang Pham
  Description:       stocked procedure to return the value / calculation for a given list of contracts or ALL
 					In my example, I'll get the dividend from my dividend table
+					Just need to create a function to split a text with a delimeter in the metadata functions
 					
  Parameter(s):      @startdate
 					@enddate
